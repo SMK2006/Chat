@@ -56,20 +56,16 @@ $(window).on("keydown", function (e) {
 });
 
 var Fake = [
-"Hello?",
-  "Sorry. I cannot see your texts. But I do see you are reading mine, which is good enough. Otherwise they can find us. Anway...You found it too, didn't you?",
-  "Dude, you know what I'm talking about! This big organisation nobody fucking knew about! This Doctor Omen? Some other weird shit. I don't know how you got information on this, but it sure is no coincidence.",
-  "I have been struggling for 3 years, but I never got this far! One E-mail really turned my life upside down.. Did you get it too? Oh wait right i can't see your fucking texts...Anyway after some broken program that needed SERIOUS fixing I got some major information about this Eye Foundation.",
-  "Yeah you are probably smiling there watching this chat, huh? How the FUCK did you get acces to the program that I FIXED? Linux? IP-Leaking? However you did it, you have some pretty good coding skills that could come in handy. So I wanna make a deal... How about we work together to find out what the fuck happened in that shithole? Finding details and sharing them together, Sound cool to you?",
-  "IDC what you're saying cause we are doing it whether you like it or not. So let me just get you up to date and show you what i found, alright?" , 
-  "So.. The Program that i fixed was named: 'Hydra'. It was an shutdown program created as last database resolve, incase everything went down. Pretty fucking small but HARD to fix if you don't know the encryption code. I got that program send through e-mail by an anonymous user. We gotta figure out who send me that e-mail, but that is a problem for later. Anyway, we both know there wasnt a lot on Hydra: Just one Log file and maybe some other broken shit...",
-  "BUT, get this! At the end of the Log File there was a threat of some people. They told me to leave or become one of them, turns out we weren't the only ones having access to Hydra",
-  "After that encounter I found something interesting, you can write your own logbooks in Hydra. I made one myself and put it in (You probably red it, fucker). Here's when it gets interesting!",
-  "Because Hydra is a shutdown program (Which is connected to the Eye Foundation) it still has access to the Eye Foundations mainframe. Hydra is literally like a serpent ready to sneak in the main database!",
-  "And this is the part where you get in this picture. The mysterious people probably saw my log file and blocked my IP. I can't do shit now! But, they don't know YOU can get into hydra too! They probably locked Hydra for everyone now, but there might still be something on it...",
-	"We probably need to find some sort of encryption code. When we have it i'll make a decoy account in Hydra, go into the main terminal and generate a decryption code for the main database! S I M P L E !. ",
-	"Go back to Hydra, see if something changed! Im sure you're going to /?KNOCK?\ it out of the park! I'll text you later, good luck...",
 
+"And? Did you find something?",
+"What? Gegenwart-23? Tf does that mean? Are you sure that is the right answer? You know what..fine..sure. Let's see what we got here, shall we?",
+"The translation of Gegenwart means the present in german, what could that mean? And why is the word written in german? We are SO close in finding the encryption code we just need to think harder!",
+"By the way, when you were being busy in Hydra, I found some more intel on the Eye Foundation.",
+"Apparently a close family member of mine worked at the Eye Foundation, my uncle! Based on some secret government files he worked for the Dutch Eye Foundation at an undisclosed location as an engineering employee. He never talked about this! We all thought he just worked at some tech company?",
+"Apparently the last thing he ever worked on was Project 769, I heard that name before but can't put my finger on it. I suppose it was important.",
+"Fuck im getting distracted...right...Gegenwart-23....What could it be? Perhaps it could mean something new? Something you already analysed / studied or are about to? Maybe you should just go to the /?CAPITAL?\ Of Germany? I literally have no fucking clue...",
+"Just try your best...Look at everything you have and i mean everything, it sounds /?BOLD?\ but I have no idea. Once you have the encryption code you can send it to me by putting the code in the website URL (You have done this earlier). When you did this you will automatically be send to the terminal where i'll try to break inside.",
+"Good luck... I am going to eat some steak, /?I can probably eat like 5!?\",
 ];
 
 function fakeMessage() {
