@@ -57,7 +57,7 @@ $(window).on("keydown", function (e) {
 
 var Fake = [
 
-And? Did you find something?",
+"And? Did you find something?",
 "What? Gegenwart-23? Tf does that mean? Are you sure that is the right answer? You know what..fine..sure. Let's see what we got here, shall we?",
 "The translation of Gegenwart means the present in german, what could that mean? And why is the word written in german? We are SO close in finding the encryption code we just need to think harder!",
 "By the way, when you were being busy in Hydra, I found some more intel on the Eye Foundation.",
