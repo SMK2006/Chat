@@ -56,7 +56,6 @@ $(window).on("keydown", function (e) {
 });
 
 var Fake = [
-
 "And? Did you find something?",
 "What? Gegenwart-23? Tf does that mean? Are you sure that is the right answer? You know what..fine..sure. Let's see what we got here, shall we?",
 "The translation of Gegenwart means the present in german, what could that mean? And why is the word written in german? We are SO close in finding the encryption code we just need to think harder!",
@@ -66,6 +65,7 @@ var Fake = [
 "Fuck im getting distracted...right...Gegenwart-23....What could it be? Perhaps it could mean something new? Something you already analysed / studied or are about to? Maybe you should just go to the /?CAPITAL?\ Of Germany? I literally have no fucking clue...",
 "Just try your best...Look at everything you have and i mean everything, it sounds /?BOLD?\ but I have no idea. Once you have the encryption code you can send it to me by putting the code in the website URL (You have done this earlier). When you did this you will automatically be send to the terminal where i'll try to break inside.",
 "Good luck... I am going to eat some steak, /?I can probably eat like 5!?\",
+
 ];
 
 function fakeMessage() {
